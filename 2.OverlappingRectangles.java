@@ -1,9 +1,6 @@
-import java.util.Scanner;
+QuestionLink:https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/
 
-/**
- *
- * @author AISHWARIYA
- */
+import java.util.Scanner;
 public class OverlappingRectangle {
     static class Point {
 
