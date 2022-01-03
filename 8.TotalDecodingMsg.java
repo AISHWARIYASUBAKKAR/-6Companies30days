@@ -1,9 +1,7 @@
+QuestionLink:https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/
 import java.util.Scanner;
 
-/**
- *
- * @author AISHWARIYA
- */
+
 public class TotalDecodingMsg {
     // recuring function to find
 // ways in how many ways a
