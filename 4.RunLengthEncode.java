@@ -1,10 +1,8 @@
+QuestionLink:https://practice.geeksforgeeks.org/problems/run-length-encoding/1/
+
 import java.util.Scanner;
 import java.lang.String;
 
-/**
- *
- * @author AISHWARIYA
- */
 public class RunLengthEncode {
     public static String encode(String str)
     {
