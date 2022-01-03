@@ -1,9 +1,7 @@
+https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/
 import java.util.Scanner;
 
-/**
- *
- * @author AISHWARIYA
- */
+
 public class UglyNumber {
     static int Div(int x,int y){ 
         while(x%y==0) 
