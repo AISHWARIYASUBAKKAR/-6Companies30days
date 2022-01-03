@@ -1,15 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package ArshGoyal;
+QuestionLink:https://leetcode.com/problems/greatest-common-divisor-of-strings/
 import java.util.Scanner;
 
-/**
- *
- * @author AISHWARIYA
- */
+
 public class GreatestCommonDiv {
     
  
