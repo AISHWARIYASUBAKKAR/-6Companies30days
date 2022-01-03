@@ -1,10 +1,8 @@
+QuestionLink:https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/
 
 import java.util.Scanner;
 
-/**
- *
- * @author AISHWARIYA
- */
+
 public class ProductCount {
  
 	static int countsubarray(int array[], int n, int k)
