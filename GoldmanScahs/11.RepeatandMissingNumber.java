@@ -1,3 +1,4 @@
+QuestionLink:https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/
 import java.util.Map;
 import java.util.HashMap;
 import java.util.Scanner;
