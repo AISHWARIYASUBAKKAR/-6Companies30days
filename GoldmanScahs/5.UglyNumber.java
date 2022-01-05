@@ -1,3 +1,5 @@
+Question Link:https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/
+
 import java.util.Scanner;
 
 /**
