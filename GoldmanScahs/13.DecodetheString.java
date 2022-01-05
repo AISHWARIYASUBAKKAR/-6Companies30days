@@ -1,4 +1,4 @@
-package ArshGoyal;
+QuestionLink:https://practice.geeksforgeeks.org/problems/decode-the-string2444/1
 import java.util.Scanner;
 import java.util.Stack;
 /**
