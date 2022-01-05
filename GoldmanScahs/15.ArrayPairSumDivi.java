@@ -1,4 +1,4 @@
-package ArshGoyal;
+QuestionLink:https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1
  import java.util.HashMap;
 import java.util.Scanner;
 /**
