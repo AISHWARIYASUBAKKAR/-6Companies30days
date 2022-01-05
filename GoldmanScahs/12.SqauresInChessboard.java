@@ -1,5 +1,5 @@
-https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1
-package ArshGoyal;
+QuestionLink:https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1
+
 
 import java.util.Scanner;
 
