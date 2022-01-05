@@ -1,3 +1,6 @@
+Question Link:https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/
+
+
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Scanner;
